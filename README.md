@@ -1,0 +1,2 @@
+# CDN
+hexo jsdeliver cdn
